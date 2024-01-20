@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1611252229 source:c:\program files\codeblocks\maquinap\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1611676057 source:c:\users\eduar\documents\maquinap\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1642438389 source:c:\users\jmajo\onedrive\escritorio\scul\7mo\leng. y automatas 2\compilador\maquina p\maquinap\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
